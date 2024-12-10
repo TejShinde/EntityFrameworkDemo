@@ -1,0 +1,70 @@
+﻿
+Before Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:20:48 PM
+----------------------------------
+
+After Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:20:48 PM
+----------------------------------
+
+Before Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:20:49 PM
+After Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:20:49 PM
+----------------------------------
+
+Before Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:21:28 PM
+----------------------------------
+
+After Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:21:28 PM
+----------------------------------
+
+Before Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:21:28 PM
+After Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:21:28 PM
+----------------------------------
+
+Before Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:23:50 PM
+----------------------------------
+
+After Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:23:50 PM
+----------------------------------
+
+Before Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:23:50 PM
+After Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:23:50 PM
+----------------------------------
+
+Before Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Privacy (EntityFrameworkDemo)->12/5/2024 12:24:26 PM
+----------------------------------
+
+After Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Privacy (EntityFrameworkDemo)->12/5/2024 12:24:26 PM
+----------------------------------
+
+Before Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Privacy (EntityFrameworkDemo)->12/5/2024 12:24:26 PM
+After Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Privacy (EntityFrameworkDemo)->12/5/2024 12:24:26 PM
+----------------------------------
+
+Before Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:24:31 PM
+----------------------------------
+
+After Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:24:31 PM
+----------------------------------
+
+Before Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:24:31 PM
+After Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 12:24:31 PM
+----------------------------------
+
+Before Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 3:12:04 PM
+----------------------------------
+
+After Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 3:12:04 PM
+----------------------------------
+
+Before Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 3:12:04 PM
+After Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/5/2024 3:12:06 PM
+----------------------------------
+
+Before Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/10/2024 4:42:36 PM
+----------------------------------
+
+After Action execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/10/2024 4:42:36 PM
+----------------------------------
+
+Before Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/10/2024 4:42:36 PM
+After Result execution->EntityFrameworkDemo.Controllers.HomeController->EntityFrameworkDemo.Controllers.HomeController.Index (EntityFrameworkDemo)->12/10/2024 4:42:37 PM
+----------------------------------
